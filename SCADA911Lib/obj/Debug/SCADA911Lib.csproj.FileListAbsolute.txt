@@ -1,0 +1,7 @@
+C:\Users\Dev\documents\visual studio 2013\Projects\SCADA911\SCADA911Lib\bin\Debug\SCADA911Lib.pdb
+C:\Users\Dev\documents\visual studio 2013\Projects\SCADA911\SCADA911Lib\obj\Debug\SCADA911Lib.frmUsers.resources
+C:\Users\Dev\documents\visual studio 2013\Projects\SCADA911\SCADA911Lib\obj\Debug\SCADA911Lib.csproj.GenerateResource.Cache
+C:\Users\Dev\documents\visual studio 2013\Projects\SCADA911\SCADA911Lib\obj\Debug\SCADA911Lib.pdb
+C:\Users\Dev\Documents\Visual Studio 2013\Projects\SCADA911\SCADA911Lib\bin\Debug\SCADA911Lib.exe
+C:\Users\Dev\Documents\Visual Studio 2013\Projects\SCADA911\SCADA911Lib\obj\Debug\SCADA911Lib.exe
+C:\Users\Dev\documents\visual studio 2013\Projects\SCADA911\SCADA911Lib\obj\Debug\SCADA911Lib.csprojResolveAssemblyReference.cache
